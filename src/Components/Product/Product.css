@@ -1,0 +1,16 @@
+p{
+    padding: 0;
+    margin: 0;
+    
+}
+.card-footer{
+    background: #FFE0B3;
+}
+.card-footer{
+    padding: 8,0,8,0;
+}
+.card-footer button{
+    background: #FFE0B3;
+    border: 0;
+}
+
