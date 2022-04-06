@@ -6,6 +6,9 @@ import Header from './Components/Header/Header';
 import Inventory from './Components/Inventory/Inventory';
 import Order from './Components/Orders/Order';
 import Shop from './Components/Shop/Shop';
+import app from './firabase.init';
+import { getAuth } from "firebase/app";
+const auth = getAuth(app);
 
 function App() {
   return (

@@ -14,7 +14,7 @@ const useCart = (products) => {
                 savedCart.push(addedProducts);
             }
 
-            console.log(addedProducts);
+            // console.log(addedProducts);
         }
         setCart(savedCart);
         // console.log(storedCart);
